@@ -1,6 +1,6 @@
 {
   "name": "jpusher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JPush API caller for node.js.",
   "main": "index.js",
   "dependencies": {
